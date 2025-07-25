@@ -1,4 +1,5 @@
 ☕ Clone da Página Inicial do Starbucks
+
 Este projeto é um clone da página inicial do Starbucks, desenvolvido com HTML5 e CSS3, 
 com o objetivo de treinar e reforçar conhecimentos em estruturação de páginas e estilização com CSS puro. 
 A proposta foi criar uma interface visualmente próxima ao site oficial da marca, com foco em organização, responsividade e fidelidade visual.
